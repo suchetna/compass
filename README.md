@@ -50,7 +50,7 @@ Comms leaders, consultants, and practitioners who need a working structure for a
 
 ## About
 
-Built by [Suchetana Bauri](https://suchetanabauri.com) — corporate communications and content strategy, with a practice built around AI-native editorial and communications workflows. Companion project: [Signal](https://github.com/suchetanabauri/signal), a Python CLI editorial content pipeline built on the Claude API.
+Built by [Suchetana Bauri](https://suchetanabauri.com) — corporate communications and content strategy, with a practice built around AI-native editorial and communications workflows. Companion project: [Signal](https://github.com/suchetna/content-workflow), a Python CLI editorial content pipeline built on the Claude API.
 
 ## License
 
